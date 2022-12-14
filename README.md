@@ -8,8 +8,7 @@
 - 📫 How to reach me **Amirrezatehrani[@]gmail.com**
 
 - ⚡ Fun fact **I 🧡 Programing and I 🧡 Learning**
-
-<h3 align="left">Connect with me:</h3>
+ 
 <p align="left">
 </p>
 
